@@ -29,7 +29,7 @@ The current version of cargo/rustc on __Fedora__ can be found here:
 
  - https://src.fedoraproject.org/rpms/rust
 
-However, some of your users may actually be running Ubuntu/RHEL LTS platforms, which have even older versions of rust. Remember that many R users are on shared servers and don't have permissions to install/upgrade rustc. Hence try to be convervative in assuming the latest dependencies / rust features in your package.
+However, some of your users may actually be running Ubuntu/RHEL LTS platforms, which have even older versions of rust. Remember that many R users are on shared servers and don't have permissions to install/upgrade rustc. Hence try to be conservative in assuming the latest dependencies / rust features in your package.
 
 ## How to avoid writing in HOME
 
